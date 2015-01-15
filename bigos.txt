@@ -3,3 +3,4 @@ Skladniki:
 - kielbasa
 - pieczarki
 - kapusta kiszona
+- ser
